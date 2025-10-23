@@ -13,9 +13,4 @@ It contains the following scripts:
 4. [evaluate_translations.py](evaluate_translations.py): script to evaluate the candidate translations.
 5. [select_best_translations.py](select_best_translations.py): script to select the best translation for each example.
 
-### Scripts
-
-This section describes in more details the scripts listed in the previous section.
-
-#### 1. prepare_datasets.py
-
+The repository also includes the annotation guidelines (that are written in Brazilian Portuguese).
