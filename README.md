@@ -1,4 +1,4 @@
-# Meta4XNLI-ptBR: Extension of Meta4XNLI for Brazilian Portuguese
+# Meta4XNLI-ptBR: Metaphor Annotation in Brazilian Portuguese version of Meta4XNLI corpus
 
 Meta4XNLI is a parallel dataset for metaphor detection and interpretation for English and Spanish. Meta4XNLI is an extension of metaphor detection annotations for Brazilian Portuguese. The texts were automatically translated using LLMs and manually annotated.
 
